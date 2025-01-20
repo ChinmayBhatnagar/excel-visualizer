@@ -1,0 +1,7 @@
+Flask==2.1.1
+pandas==1.4.2
+plotly==5.10.0
+werkzeug==2.1.1
+openpyxl==3.0.10
+xlrd==2.0.1
+HTML==5
