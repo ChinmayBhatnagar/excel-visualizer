@@ -4,4 +4,3 @@ plotly==5.10.0
 werkzeug==2.1.1
 openpyxl==3.0.10
 xlrd==2.0.1
-HTML==5
